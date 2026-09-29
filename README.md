@@ -24,7 +24,7 @@ I'm a developer from Bahrain building web and mobile applications, REST APIs, an
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,java&theme=dark" alt="JavaScript, TypeScript, Python, PHP, Dart, Java" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind, materialui,jquery&theme=dark" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS, Material UI, jQuery" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,materialui,jquery&theme=dark" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS, Material UI, jQuery" />
   <br /><br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask&theme=dark" alt="Node.js, Express, Django, Laravel, Flask" />
   <br /><br />
