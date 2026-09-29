@@ -22,17 +22,17 @@ I'm a developer from Bahrain building web and mobile applications, REST APIs, an
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,java&theme=dark" alt="JavaScript, TypeScript, Python, PHP, Dart, Java" />
-  <br /><br />
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,materialui,jquery&theme=dark" alt="React, Next.js, Vue, HTML, CSS, Tailwind CSS, Material UI, jQuery" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask&theme=dark" alt="Node.js, Express, Django, Laravel, Flask" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,flutter&theme=dark" alt="MongoDB, MySQL, Firebase, Flutter" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,java&theme=dark" alt="JavaScript, TypeScript, Python, PHP, Dart, Java" />
   <br /><br />
   <img src="https://skillicons.dev/icons?i=aws,docker,vercel,cloudflare,heroku,githubactions&theme=dark" alt="AWS, Docker, Vercel, Cloudflare, Heroku, GitHub Actions" />
   <br /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,laravel,flask&theme=dark" alt="Node.js, Express, Django, Laravel, Flask" />
+  <br /><br />
   <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma&theme=dark" alt="Git, GitHub, Linux, Postman, Figma" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,flutter&theme=dark" alt="MongoDB, MySQL, Firebase, Flutter" />
 </div>
 
 ## 🚀 Projects
